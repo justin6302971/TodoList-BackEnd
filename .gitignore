@@ -2,15 +2,14 @@
 /obj
 /bin
 
+# Editor directories and files
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
 
-# Editor directories and files
 .idea
-.vscode
 *.suo
 *.ntvs*
 *.njsproj
